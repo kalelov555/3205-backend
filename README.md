@@ -1,6 +1,10 @@
 # Запустить программу локально !!!
 
+создать или уже в существующую папку "3205" склонировать бэк
+
 ### `git clone https://github.com/kalelov555/3205-backend.git`
+
+### `cd 3205-backend`
 
 ### `npm install`
 
